@@ -1,0 +1,2 @@
+This is my first git document that i have created in my git repository.
+The purpose of this document is to understand the use of git as a version control application in my journey to devops.
